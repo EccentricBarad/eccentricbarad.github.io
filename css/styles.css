@@ -363,7 +363,7 @@ h2, .h2 {
 	background: #f64646;
 	/* background-image: url('../images/dots.png'); */
 	background-repeat: repeat;
-	height: 760px;
+	height: 500px;
 }
 /* wtMenu
 ----------------------------------------------*/
@@ -477,8 +477,6 @@ h2, .h2 {
 	background-color: #FFD500;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-/*background-color: #FFD500;*/
-;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
 	background: #FFD500;
@@ -690,7 +688,7 @@ a.arrow-link:hover {
 }
 img, video, iframe, embed, object {
 	max-width: 100%;
-	height: auto;
+	height: 400px;
 }
 /* Features
     -------------------------------------------------*/
@@ -760,7 +758,11 @@ padding-bottom:10px;
 }
 .row .six {
 	width: 50%;
-	height: auto;;;;;
+	height: auto;
+}
+.highlight-text {
+  color: var(--dark-teal);
+  font-weight: bold;
 }
 /* Services
     -------------------------------------------------*/
