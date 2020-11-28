@@ -688,6 +688,9 @@ a.arrow-link:hover {
 }
 img, video, iframe, embed, object {
 	max-width: 100%;
+	height: auto;
+}
+iframe {
 	height: 400px;
 }
 /* Features
