@@ -26,7 +26,7 @@ body {
 }
 ::selection {
 	color: #fff;
-	background: #F64646;
+	background: #1d3557;
 }
 
 ::-moz-selection {
@@ -166,7 +166,7 @@ a:hover {
 }
 .copyright {
 	color: #FFFFFF;
-	background: #F64646;
+	background: #1d3557;
 	padding: 20px 0;
 }
 #top {
@@ -360,7 +360,7 @@ h2, .h2 {
 	text-align: center;
 }
 .banner-container {
-	background: #f64646;
+	background: #1d3557; /* #1d3557 */
 	/* background-image: url('../images/dots.png'); */
 	background-repeat: repeat;
 	height: 500px;
@@ -512,7 +512,7 @@ h2, .h2 {
 	margin: 0px;
 }
 .circle {
-	color: #F64646;
+	color: #1d3557; /* #1d3557 */
 	height: 80px;
 	width: 80px;
 	padding: 23px;
@@ -640,7 +640,7 @@ a.arrow-link:hover {
 	color: #545454;
 }
 .colord h3 {
-	color: #F64646;
+	color: #1d3557;
 	padding-bottom: 10px;
 	border-bottom: 1px solid rgba(255, 255, 255, 0.57);
 }
@@ -800,7 +800,7 @@ padding-bottom:10px;
 #contactUs .btn {
 	border-radius: 0px !important;
 	border: 0px !important;
-	background: #F64646;
+	background: #1d3557;
 	color: #fff !important;
 }
 nav#filter {
@@ -905,7 +905,7 @@ footer {
 .social a {
 	font-size: 32px;
 	margin: 0 10px;
-	color: #F64646;
+	color: #1d3557;
 }
 .contact ul li {
 	margin-bottom: 10px;
