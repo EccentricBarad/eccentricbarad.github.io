@@ -197,8 +197,8 @@ h2, .h2 {
 	width: auto;
 	margin: 0 auto;
 	padding: 16px;
-	height: 125px;
-	width: 165px;
+	height: 100px;
+	width: 135px;
 }
 .wrapper {
 	margin: 0 auto;
@@ -761,7 +761,6 @@ padding-bottom:10px;
 }
 .row .six {
 	width: 50%;
-	height: auto;
 }
 .highlight-text {
   color: var(--dark-teal);
@@ -974,7 +973,7 @@ footer {
 }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
 .banner-container {
 	height: 500px;
 }
